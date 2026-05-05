@@ -28,9 +28,9 @@
 - [x] 22. Fruit Into Baskets
 - [x] 23. Binary Subarrays With Sum
 - [x] 24. Count Number of Nice Subarrays
-- [ ] 25. Replace the Substring for Balanced String
-- [ ] 26. Number of Substrings Containing All Three Characters
-- [ ] 27. Longest Word in Dictionary through Deleting
+- [x] 25. Replace the Substring for Balanced String
+- [x] 26. Number of Substrings Containing All Three Characters
+- [x] 27. Longest Word in Dictionary through Deleting
 - [ ] 28. Linked List Cycle I & II
 - [ ] 29. Find the Duplicate Number
 - [ ] 30. Maximum Erasure Value

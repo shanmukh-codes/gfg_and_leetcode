@@ -31,14 +31,14 @@
 - [x] 25. Replace the Substring for Balanced String
 - [x] 26. Number of Substrings Containing All Three Characters
 - [x] 27. Longest Word in Dictionary through Deleting
-- [ ] 28. Linked List Cycle I & II
-- [ ] 29. Find the Duplicate Number
-- [ ] 30. Maximum Erasure Value
-- [ ] 31. Push Dominoes
-- [ ] 32. Longest Mountain in Array
-- [ ] 33. Minimum Size Subarray Sum
-- [ ] 34. K-diff Pairs in an Array
-- [ ] 35. Count Subarrays with Fixed Bounds
+- [x] 28. Linked List Cycle I & II
+- [x] 29. Find the Duplicate Number
+- [x] 30. Maximum Erasure Value
+- [x] 31. Push Dominoes
+- [x] 32. Longest Mountain in Array
+- [x] 33. Minimum Size Subarray Sum
+- [x] 34. K-diff Pairs in an Array
+- [x] 35. Count Subarrays with Fixed Bounds
 - [ ] 36. Continuous Subarray Sum
 - [ ] 37. Shortest Unsorted Continuous Subarray
 - [ ] 38. Valid Triangle Number

@@ -39,7 +39,7 @@
 - [x] 33. Minimum Size Subarray Sum
 - [x] 34. K-diff Pairs in an Array
 - [x] 35. Count Subarrays with Fixed Bounds
-- [ ] 36. Continuous Subarray Sum
+- [x] 36. Continuous Subarray Sum
 - [ ] 37. Shortest Unsorted Continuous Subarray
 - [ ] 38. Valid Triangle Number
 - [ ] 39. Sum of Square Numbers

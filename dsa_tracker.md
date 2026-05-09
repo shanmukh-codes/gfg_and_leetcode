@@ -40,10 +40,10 @@
 - [x] 34. K-diff Pairs in an Array
 - [x] 35. Count Subarrays with Fixed Bounds
 - [x] 36. Continuous Subarray Sum
-- [ ] 37. Shortest Unsorted Continuous Subarray
+- [x] 37. Shortest Unsorted Continuous Subarray
 - [ ] 38. Valid Triangle Number
-- [ ] 39. Sum of Square Numbers
-- [ ] 40. Pair with Target Sum (PYQ)
+- [x] 39. Sum of Square Numbers
+- [x] 40. Pair with Target Sum (PYQ)
 
 ### Days 3-4: Strings, HashMaps & Frequency Logic (~40 Qs)
 - [ ] 01. Valid Anagram

@@ -1,18 +1,20 @@
 # Infosys L3 - 28-Day Master Study Tracker
 
 ## Phase 1: The Speed Foundation (Days 1 to 6)
-*Goal: Perfect your Java collections and pointer logic.*
+
+_Goal: Perfect your Java collections and pointer logic._
 
 ### Days 1-2: Arrays, Two-Pointers & Sliding Window (~40 Qs)
-- [x] 01. Two Sum II - Input Array Is Sorted
-- [x] 02. Valid Palindrome
-- [x] 03. 3Sum
-- [x] 04. 3Sum Closest
-- [x] 05. 4Sum
-- [x] 06. Container With Most Water
-- [x] 07. Trapping Rain Water
-- [x] 08. Remove Duplicates from Sorted Array I & II
-- [x] 09. Remove Element
+
+- [x] 1.  Two Sum II - Input Array Is Sorted
+- [x] 2.  Valid Palindrome
+- [x] 3.  3Sum
+- [x] 4.  3Sum Closest
+- [x] 5.  4Sum
+- [x] 6.  Container With Most Water
+- [x] 7.  Trapping Rain Water
+- [x] 8.  Remove Duplicates from Sorted Array I & II
+- [x] 9.  Remove Element
 - [x] 10. Move Zeroes
 - [x] 11. Sort Colors (Dutch National Flag)
 - [x] 12. Reverse String & Reverse Vowels of a String
@@ -41,20 +43,21 @@
 - [x] 35. Count Subarrays with Fixed Bounds
 - [x] 36. Continuous Subarray Sum
 - [x] 37. Shortest Unsorted Continuous Subarray
-- [ ] 38. Valid Triangle Number
+- [x] 38. Valid Triangle Number
 - [x] 39. Sum of Square Numbers
 - [x] 40. Pair with Target Sum (PYQ)
 
 ### Days 3-4: Strings, HashMaps & Frequency Logic (~40 Qs)
-- [ ] 01. Valid Anagram
-- [ ] 02. Find All Anagrams in a String
-- [ ] 03. Permutation in String
-- [ ] 04. Longest Palindromic Substring
-- [ ] 05. Palindromic Substrings
-- [ ] 06. Group Anagrams
-- [ ] 07. Valid Palindrome II
-- [ ] 08. Longest Palindrome
-- [ ] 09. Longest Substring Without Repeating Characters
+
+- [x] 1.  Valid Anagram
+- [x] 2.  Find All Anagrams in a String
+- [x] 3.  Permutation in String
+- [x] 4.  Longest Palindromic Substring
+- [x] 5.  Palindromic Substrings
+- [x] 6.  Group Anagrams
+- [ ] 7.  Valid Palindrome II
+- [ ] 8.  Longest Palindrome
+- [ ] 9.  Longest Substring Without Repeating Characters
 - [ ] 10. Longest Repeating Character Replacement
 - [ ] 11. Minimum Window Substring
 - [ ] 12. Minimum Window Subsequence
@@ -88,15 +91,16 @@
 - [ ] 40. Longest Substring with At Least K Repeating Characters
 
 ### Day 5: Greedy Algorithms & Interval Scheduling (~35 Qs)
-- [ ] 01. Assign Cookies
-- [ ] 02. Jump Game
-- [ ] 03. Jump Game II
-- [ ] 04. Gas Station
-- [ ] 05. Task Scheduler
-- [ ] 06. Lemonade Change
-- [ ] 07. Non-overlapping Intervals
-- [ ] 08. Minimum Number of Arrows to Burst Balloons
-- [ ] 09. Meeting Rooms
+
+- [ ] 1.  Assign Cookies
+- [ ] 2.  Jump Game
+- [ ] 3.  Jump Game II
+- [ ] 4.  Gas Station
+- [ ] 5.  Task Scheduler
+- [ ] 6.  Lemonade Change
+- [ ] 7.  Non-overlapping Intervals
+- [ ] 8.  Minimum Number of Arrows to Burst Balloons
+- [ ] 9.  Meeting Rooms
 - [ ] 10. Meeting Rooms II
 - [ ] 11. Insert Interval
 - [ ] 12. Merge Intervals
@@ -125,15 +129,16 @@
 - [ ] 35. Earliest Possible Day of Full Bloom
 
 ### Day 6: Priority Queues (Min/Max Heaps) (~40 Qs)
-- [ ] 01. Kth Largest Element in an Array
-- [ ] 02. Find Median from Data Stream
-- [ ] 03. Top K Frequent Elements
-- [ ] 04. Top K Frequent Words (Review)
-- [ ] 05. Merge K Sorted Lists
-- [ ] 06. Sort Characters By Frequency (Review)
-- [ ] 07. K Closest Points to Origin
-- [ ] 08. Kth Smallest Element in a Sorted Matrix
-- [ ] 09. Minimum Cost to Connect Sticks
+
+- [ ] 1.  Kth Largest Element in an Array
+- [ ] 2.  Find Median from Data Stream
+- [ ] 3.  Top K Frequent Elements
+- [ ] 4.  Top K Frequent Words (Review)
+- [ ] 5.  Merge K Sorted Lists
+- [ ] 6.  Sort Characters By Frequency (Review)
+- [ ] 7.  K Closest Points to Origin
+- [ ] 8.  Kth Smallest Element in a Sorted Matrix
+- [ ] 9.  Minimum Cost to Connect Sticks
 - [ ] 10. Task Scheduler (PQ Approach)
 - [ ] 11. Single-Threaded CPU
 - [ ] 12. Seat Reservation Manager
@@ -171,15 +176,16 @@
 ## Phase 2: The Core Algorithms (Days 7 to 15)
 
 ### Days 7-9: Dynamic Programming 1D & 2D (~45 Qs)
-- [ ] 01. Climbing Stairs & Min Cost Climbing Stairs
-- [ ] 02. Fibonacci Number & N-th Tribonacci
-- [ ] 03. House Robber I, II, & III
-- [ ] 04. Coin Change I & II
-- [ ] 05. Partition Equal Subset Sum
-- [ ] 06. Target Sum
-- [ ] 07. Longest Common Subsequence
-- [ ] 08. Longest Increasing Subsequence
-- [ ] 09. Ones and Zeroes
+
+- [ ] 1.  Climbing Stairs & Min Cost Climbing Stairs
+- [ ] 2.  Fibonacci Number & N-th Tribonacci
+- [ ] 3.  House Robber I, II, & III
+- [ ] 4.  Coin Change I & II
+- [ ] 5.  Partition Equal Subset Sum
+- [ ] 6.  Target Sum
+- [ ] 7.  Longest Common Subsequence
+- [ ] 8.  Longest Increasing Subsequence
+- [ ] 9.  Ones and Zeroes
 - [ ] 10. Maximum Subarray
 - [ ] 11. Maximum Product Subarray
 - [ ] 12. Edit Distance
@@ -218,15 +224,16 @@
 - [ ] 45. Find the Derangement of an Array
 
 ### Days 10-12: Graph Theory (~40 Qs)
-- [ ] 01. Number of Islands
-- [ ] 02. Max Area of Island
-- [ ] 03. Flood Fill
-- [ ] 04. Rotting Oranges
-- [ ] 05. Course Schedule I & II (Topological Sort)
-- [ ] 06. Clone Graph
-- [ ] 07. Pacific Atlantic Water Flow
-- [ ] 08. Surrounded Regions
-- [ ] 09. Word Ladder I & II
+
+- [ ] 1.  Number of Islands
+- [ ] 2.  Max Area of Island
+- [ ] 3.  Flood Fill
+- [ ] 4.  Rotting Oranges
+- [ ] 5.  Course Schedule I & II (Topological Sort)
+- [ ] 6.  Clone Graph
+- [ ] 7.  Pacific Atlantic Water Flow
+- [ ] 8.  Surrounded Regions
+- [ ] 9.  Word Ladder I & II
 - [ ] 10. Evaluate Division
 - [ ] 11. Minimum Height Trees
 - [ ] 12. Reconstruct Itinerary
@@ -260,15 +267,16 @@
 - [ ] 40. Design Graph With Shortest Path Calculator
 
 ### Days 13-14: Backtracking with Pruning (~35 Qs)
-- [ ] 01. Permutations & Permutations II
-- [ ] 02. Subsets & Subsets II
-- [ ] 03. Combinations
-- [ ] 04. Combination Sum I, II, III
-- [ ] 05. Generate Parentheses
-- [ ] 06. N-Queens & N-Queens II
-- [ ] 07. Sudoku Solver
-- [ ] 08. Valid Sudoku
-- [ ] 09. Word Search I & II
+
+- [ ] 1.  Permutations & Permutations II
+- [ ] 2.  Subsets & Subsets II
+- [ ] 3.  Combinations
+- [ ] 4.  Combination Sum I, II, III
+- [ ] 5.  Generate Parentheses
+- [ ] 6.  N-Queens & N-Queens II
+- [ ] 7.  Sudoku Solver
+- [ ] 8.  Valid Sudoku
+- [ ] 9.  Word Search I & II
 - [ ] 10. Letter Combinations of a Phone Number
 - [ ] 11. Remove Invalid Parentheses
 - [ ] 12. Restore IP Addresses
@@ -297,6 +305,7 @@
 - [ ] 35. Combination Sum IV (Backtracking Approach to prove DP necessity)
 
 ### Day 15: Revision & Mid-Point Mock Test
+
 - [ ] 3-Hour Infosys PYQ Half-Way Mock
 
 ---
@@ -304,15 +313,16 @@
 ## Phase 3: The L3 Advancements (Days 16 to 22)
 
 ### Days 16-17: DP + Bitmasking (~30 Qs)
-- [ ] 01. Partition to K Equal Sum Subsets
-- [ ] 02. Smallest Sufficient Team
-- [ ] 03. Shortest Path Visiting All Nodes
-- [ ] 04. Number of Ways to Wear Different Hats to Each Other
-- [ ] 05. Find the Shortest Superstring
-- [ ] 06. Maximum Students Taking Exam
-- [ ] 07. Optimal Account Balancing
-- [ ] 08. Minimum Incompatibility
-- [ ] 09. Number of Valid Words for Each Puzzle
+
+- [ ] 1.  Partition to K Equal Sum Subsets
+- [ ] 2.  Smallest Sufficient Team
+- [ ] 3.  Shortest Path Visiting All Nodes
+- [ ] 4.  Number of Ways to Wear Different Hats to Each Other
+- [ ] 5.  Find the Shortest Superstring
+- [ ] 6.  Maximum Students Taking Exam
+- [ ] 7.  Optimal Account Balancing
+- [ ] 8.  Minimum Incompatibility
+- [ ] 9.  Number of Valid Words for Each Puzzle
 - [ ] 10. Maximum Score Words Formed by Letters
 - [ ] 11. Maximum Number of Groups Getting Fresh Donuts
 - [ ] 12. Minimum Number of Work Sessions to Finish the Tasks
@@ -336,15 +346,16 @@
 - [ ] 30. Select K Disjoint Special Substrings
 
 ### Days 18-19: Binary Search on Answer space (~30 Qs)
-- [ ] 01. Split Array Largest Sum
-- [ ] 02. Koko Eating Bananas
-- [ ] 03. Minimum Number of Days to Make m Bouquets
-- [ ] 04. Allocate Books
-- [ ] 05. Capacity To Ship Packages Within D Days
-- [ ] 06. Minimize Max Distance to Gas Station
-- [ ] 07. Kth Smallest Distance Pair
-- [ ] 08. Median of Two Sorted Arrays
-- [ ] 09. Find K-th Smallest Pair Distance
+
+- [ ] 1.  Split Array Largest Sum
+- [ ] 2.  Koko Eating Bananas
+- [ ] 3.  Minimum Number of Days to Make m Bouquets
+- [ ] 4.  Allocate Books
+- [ ] 5.  Capacity To Ship Packages Within D Days
+- [ ] 6.  Minimize Max Distance to Gas Station
+- [ ] 7.  Kth Smallest Distance Pair
+- [ ] 8.  Median of Two Sorted Arrays
+- [ ] 9.  Find K-th Smallest Pair Distance
 - [ ] 10. Find the Duplicate Number (Binary Search Range)
 - [ ] 11. Find First and Last Position of Element in Sorted Array
 - [ ] 12. Search in Rotated Sorted Array I & II
@@ -368,15 +379,16 @@
 - [ ] 30. Minimum Operations to Make All Array Elements Equal
 
 ### Days 20-21: Combinatorics & Math (~30 Qs)
-- [ ] 01. Count Primes (Sieve of Eratosthenes)
-- [ ] 02. Pow(x, n)
-- [ ] 03. Fast Matrix Exponentiation setups
-- [ ] 04. Fibonacci Number (O(log N) Matrix Exp)
-- [ ] 05. Number of Ways to Form a Target String Given a Dictionary
-- [ ] 06. Number of Music Playlists
-- [ ] 07. Count All Valid Pickup and Delivery Options
-- [ ] 08. Greatest Common Divisor of Strings
-- [ ] 09. Valid Tic-Tac-Toe State
+
+- [ ] 1.  Count Primes (Sieve of Eratosthenes)
+- [ ] 2.  Pow(x, n)
+- [ ] 3.  Fast Matrix Exponentiation setups
+- [ ] 4.  Fibonacci Number (O(log N) Matrix Exp)
+- [ ] 5.  Number of Ways to Form a Target String Given a Dictionary
+- [ ] 6.  Number of Music Playlists
+- [ ] 7.  Count All Valid Pickup and Delivery Options
+- [ ] 8.  Greatest Common Divisor of Strings
+- [ ] 9.  Valid Tic-Tac-Toe State
 - [ ] 10. Poor Pigs
 - [ ] 11. Nim Game
 - [ ] 12. Bulb Switcher
@@ -400,15 +412,16 @@
 - [ ] 30. Orderly Queue
 
 ### Day 22: Advanced Prefix Sums & Hashing (~30 Qs)
-- [ ] 01. Subarray Sum Equals K (Review)
-- [ ] 02. Continuous Subarray Sum (Review)
-- [ ] 03. Maximum Size Subarray Sum Equals k
-- [ ] 04. Path Sum III (Prefix sum on tree)
-- [ ] 05. Contiguous Array
-- [ ] 06. Make Sum Divisible by P
-- [ ] 07. Corporate Flight Bookings (Difference Array)
-- [ ] 08. Car Pooling (Difference Array)
-- [ ] 09. Range Sum Query 2D - Immutable
+
+- [ ] 1.  Subarray Sum Equals K (Review)
+- [ ] 2.  Continuous Subarray Sum (Review)
+- [ ] 3.  Maximum Size Subarray Sum Equals k
+- [ ] 4.  Path Sum III (Prefix sum on tree)
+- [ ] 5.  Contiguous Array
+- [ ] 6.  Make Sum Divisible by P
+- [ ] 7.  Corporate Flight Bookings (Difference Array)
+- [ ] 8.  Car Pooling (Difference Array)
+- [ ] 9.  Range Sum Query 2D - Immutable
 - [ ] 10. Minimum Operations to Reduce X to Zero
 - [ ] 11. Number of Submatrices That Sum to Target
 - [ ] 12. Maximum Sum of 3 Non-Overlapping Subarrays
@@ -436,15 +449,16 @@
 ## Phase 4: Expert Differentiators (Days 23 to 26)
 
 ### Day 23: DP on Trees & Lowest Common Ancestor (LCA) (~25 Qs)
-- [ ] 01. Lowest Common Ancestor of a Binary Tree
-- [ ] 02. Lowest Common Ancestor of a Binary Search Tree
-- [ ] 03. Binary Tree Maximum Path Sum
-- [ ] 04. Diameter of Binary Tree
-- [ ] 05. Sum of Distances in Tree
-- [ ] 06. Binary Tree Cameras
-- [ ] 07. Time When Network Becomes Idle
-- [ ] 08. Find Largest Value in Each Tree Row
-- [ ] 09. Maximum Difference Between Node and Ancestor
+
+- [ ] 1.  Lowest Common Ancestor of a Binary Tree
+- [ ] 2.  Lowest Common Ancestor of a Binary Search Tree
+- [ ] 3.  Binary Tree Maximum Path Sum
+- [ ] 4.  Diameter of Binary Tree
+- [ ] 5.  Sum of Distances in Tree
+- [ ] 6.  Binary Tree Cameras
+- [ ] 7.  Time When Network Becomes Idle
+- [ ] 8.  Find Largest Value in Each Tree Row
+- [ ] 9.  Maximum Difference Between Node and Ancestor
 - [ ] 10. Delete Nodes And Return Forest
 - [ ] 11. Distribute Coins in Binary Tree
 - [ ] 12. Longest Univalue Path
@@ -463,15 +477,16 @@
 - [ ] 25. Amount of Time for Binary Tree to Be Infected
 
 ### Days 24-25: Segment Trees & Fenwick Trees (~25 Qs)
-- [ ] 01. Range Sum Query - Mutable
-- [ ] 02. Count of Smaller Numbers After Self
-- [ ] 03. Reverse Pairs
-- [ ] 04. Create Sorted Array through Instructions
-- [ ] 05. Online Majority Element In Subarray
-- [ ] 06. Falling Squares
-- [ ] 07. 2D Range Sum Query Mutable
-- [ ] 08. Count Good Triplets in an Array
-- [ ] 09. Rectangle Area II
+
+- [ ] 1.  Range Sum Query - Mutable
+- [ ] 2.  Count of Smaller Numbers After Self
+- [ ] 3.  Reverse Pairs
+- [ ] 4.  Create Sorted Array through Instructions
+- [ ] 5.  Online Majority Element In Subarray
+- [ ] 6.  Falling Squares
+- [ ] 7.  2D Range Sum Query Mutable
+- [ ] 8.  Count Good Triplets in an Array
+- [ ] 9.  Rectangle Area II
 - [ ] 10. Finding MK Average (Can be solved with Segment Trees)
 - [ ] 11. Count Number of Teams
 - [ ] 12. Maximum Number of Visible Points
@@ -490,20 +505,23 @@
 - [ ] 25. Number of Ways to Build Sturdy Brick Wall
 
 ### Day 26: Convex Hull Trick/Advanced topics overview (~10 Qs)
-- [ ] 01. Frog Jump (Advanced Math properties)
-- [ ] 02. Minimum Cost to Merge Stones
-- [ ] 03. Best Time to Buy and Sell Stock with Transaction Fee (Optimized state transition to prove L3 O(1) constraints)
-- [ ] 04. Burst Balloons
-- [ ] 05. Super Egg Drop
-- [ ] 06. Number of Ways to Reconstruct a Tree
-- [ ] 07. Guess Number Higher or Lower II
-- [ ] 08. Minimum Insertion Steps to Make a String Palindrome
-- [ ] 09. Maximum Score from Performing Multiplication Operations
+
+- [ ] 1.  Frog Jump (Advanced Math properties)
+- [ ] 2.  Minimum Cost to Merge Stones
+- [ ] 3.  Best Time to Buy and Sell Stock with Transaction Fee (Optimized state transition to prove L3 O(1) constraints)
+- [ ] 4.  Burst Balloons
+- [ ] 5.  Super Egg Drop
+- [ ] 6.  Number of Ways to Reconstruct a Tree
+- [ ] 7.  Guess Number Higher or Lower II
+- [ ] 8.  Minimum Insertion Steps to Make a String Palindrome
+- [ ] 9.  Maximum Score from Performing Multiplication Operations
 - [ ] 10. Maximum Number of Darts Inside of a Circular Dartboard
 
 ---
 
 ## Phase 5: The War Room (Days 27 & 28)
+
 ### Final Mock Tests
+
 - [ ] Mock Exam 1 (3-Hour Simulated Test)
 - [ ] Mock Exam 2 (3-Hour Simulated Test)

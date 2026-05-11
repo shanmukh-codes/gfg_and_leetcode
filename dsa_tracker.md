@@ -56,7 +56,7 @@ _Goal: Perfect your Java collections and pointer logic._
 - [x] 5.  Palindromic Substrings
 - [x] 6.  Group Anagrams
 - [ ] 7.  Valid Palindrome II
-- [ ] 8.  Longest Palindrome
+- [x] 8.  Longest Palindrome
 - [ ] 9.  Longest Substring Without Repeating Characters
 - [ ] 10. Longest Repeating Character Replacement
 - [ ] 11. Minimum Window Substring

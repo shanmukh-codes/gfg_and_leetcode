@@ -51,16 +51,16 @@
 > **⚡ CONCEPT DAY:** First 30 minutes = What is Greedy? When does it work? The "Safe Choice" mental model.
 > _Problems below are ordered: simple greedy → interval greedy → hard greedy._
 
-- [ ] 2.  Jump Game ⭐ _(The classic: "How far can I reach?" greedy)_
-- [ ] 3.  Jump Game II _(Greedy with "level" tracking — extends Jump Game)_
-- [ ] 11. Insert Interval _(Interval greedy: merge on the fly)_
-- [ ] 12. Merge Intervals ⭐ _(Sort + sweep — appears in almost every company)_
-- [ ] 7.  Non-overlapping Intervals _(Interval counting — reverse of Merge)_
-- [ ] 9.  Meeting Rooms _(Is there any overlap? — simple interval check)_
-- [ ] 10. Meeting Rooms II ⭐ _(Min-Heap greedy — how many rooms needed?)_
-- [ ] 4.  Gas Station _(Circular greedy — "running total" technique)_
-- [ ] 5.  Task Scheduler ⭐ _(Greedy + math: most frequent task determines wait time)_
-- [ ] 16. Queue Reconstruction by Height _(Sort by two keys — classic greedy trick)_
+- [x] 2.  Jump Game ⭐ _(The classic: "How far can I reach?" greedy)_
+- [x] 3.  Jump Game II _(Greedy with "level" tracking — extends Jump Game)_
+- [x] 11. Insert Interval _(Interval greedy: merge on the fly)_
+- [x] 12. Merge Intervals ⭐ _(Sort + sweep — appears in almost every company)_
+- [x] 7.  Non-overlapping Intervals _(Interval counting — reverse of Merge)_
+- [x] 9.  Meeting Rooms _(Is there any overlap? — simple interval check)_
+- [x] 10. Meeting Rooms II ⭐ _(Min-Heap greedy — how many rooms needed?)_
+- [x] 4.  Gas Station _(Circular greedy — "running total" technique)_
+- [x] 5.  Task Scheduler ⭐ _(Greedy + math: most frequent task determines wait time)_
+- [x] 16. Queue Reconstruction by Height _(Sort by two keys — classic greedy trick)_
 
 ---
 
@@ -68,10 +68,10 @@
 
 > **⚡ CONCEPT DAY:** First 30 minutes = What is a Heap? Min-Heap vs Max-Heap. Java's `PriorityQueue`. When to use a Heap vs Sorting.
 
-- [ ] 1.  Kth Largest Element in an Array ⭐ _(The entry-point to all Heap problems)_
-- [ ] 3.  Top K Frequent Elements ⭐ _(Frequency map + Heap: a universal pattern)_
-- [ ] 7.  K Closest Points to Origin _(Distance comparison + Min-Heap)_
-- [ ] 5.  Merge K Sorted Lists ⭐ _(Advanced: Heap applied to linked lists)_
+- [x] 1.  Kth Largest Element in an Array ⭐ _(The entry-point to all Heap problems)_
+- [x] 3.  Top K Frequent Elements ⭐ _(Frequency map + Heap: a universal pattern)_
+- [x] 7.  K Closest Points to Origin _(Distance comparison + Min-Heap)_
+- [x] 5.  Merge K Sorted Lists ⭐ _(Advanced: Heap applied to linked lists)_
 - [ ] 2.  Find Median from Data Stream _(Two-heap trick — the hardest heap problem)_
 - [ ] 16. Sliding Window Maximum _(Deque/Heap: max in a moving window)_
 - [ ] 25. Last Stone Weight _(Simulation with Max-Heap — easy intro)_
